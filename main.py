@@ -33,7 +33,7 @@ def angle_between(v1, v2):
 
 class Tetraeder:
 
-    # ZRAČUNA KROGLO KI OBDAJA TETRAEDER
+    # ZRAČUNA KROGLO KI OBDAJA  TETRAEDER
     def centerPoint(self):
         p1 = self.points[0]
         p2 = self.points[1]
